@@ -13,7 +13,7 @@ I'm a front-end developer
 
 # Todo app
 
-This is my tiny Todo App using TypeScript.
+This is my tiny Todo App using ReactJS + TypeScript.
 
 Check it out ;3
 
